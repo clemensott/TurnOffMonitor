@@ -1,6 +1,0 @@
-g:\users\clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\bin\Debug\TurnOffMonitor.exe.config
-g:\users\clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\obj\Debug\TurnOffMonitor.csprojResolveAssemblyReference.cache
-g:\users\clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\bin\Debug\TurnOffMonitor.exe
-g:\users\clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\bin\Debug\TurnOffMonitor.pdb
-g:\users\clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\obj\Debug\TurnOffMonitor.exe
-g:\users\clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\obj\Debug\TurnOffMonitor.pdb

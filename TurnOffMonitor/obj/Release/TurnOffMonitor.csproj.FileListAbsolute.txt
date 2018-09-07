@@ -1,5 +1,0 @@
-G:\Users\Clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\bin\Release\TurnOffMonitor.exe.config
-G:\Users\Clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\bin\Release\TurnOffMonitor.exe
-G:\Users\Clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\bin\Release\TurnOffMonitor.pdb
-G:\Users\Clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\obj\Release\TurnOffMonitor.exe
-G:\Users\Clemens\documents\visual studio 2015\Projects\TurnOffMonitor\TurnOffMonitor\obj\Release\TurnOffMonitor.pdb
